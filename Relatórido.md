@@ -26,6 +26,7 @@
         return nums;
     }
 ```
+**Tempo de execução:**
 ```bash
 #######BUBBLE SORT SIMPLES############
 TEMPO INICIAL: 05:26
@@ -34,5 +35,3 @@ TEMPO FINAL: 05:31
 TEMPO INICIAL: 05:31
 TEMPO FINAL: 05:31
 ```
-**Tempo de execução:**
-
